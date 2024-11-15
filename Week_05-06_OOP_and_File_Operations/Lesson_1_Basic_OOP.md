@@ -1,4 +1,3 @@
-
 # Lesson 1: Basic Object-Oriented Programming (OOP)
 
 ## Objective
